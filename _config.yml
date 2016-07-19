@@ -1,0 +1,14 @@
+layout_spectrum: 0.8409384950064123
+typography_spectrum: 0.15193105093203485
+color:
+  brandStrength: 0.2859338382259011
+  lightness: 0.16478866711258888
+  saturation: 0.055992138339206576
+  rhythmicContrast: 0.4458252270705998
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: w3box
