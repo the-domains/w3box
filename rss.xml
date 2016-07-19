@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[w3box]]></title>
         <description><![CDATA[w3box]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/w3box/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 01:09:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 01:10:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/w3box/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dropbox]]></title>
+            <description><![CDATA[<article><h1>Dropbox</h1><p>Dropbox keeps your files safe, synced, and easy to share. Bring your photos, docs, and videos anywhere and never lose a file again.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3e3ac43a721a7039779457d1988e330/noop.png?input=https%3A%2F%2Fcfl.dropboxstatic.com%2Fstatic%2Fimages%2Fbrand%2Fglyph%402x-vflJ1vxbq.png"></article>]]></description>
+            <link>https://www.dropbox.com/</link>
+            <guid isPermaLink="false">4ff26efc-cdeb-401f-baf4-77d8ea4a403e</guid>
+            <pubDate>Tue, 19 Jul 2016 01:10:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iCloud]]></title>
             <description><![CDATA[<article><h1>iCloud</h1><p>iCloud makes sure you always have the latest versions of your most important things - documents, photos, notes, contacts, and more - on all your devices. It can even help you locate a missing iPhone, iPad, iPod touch or Mac.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/411b05c2b082c045943ffb5b1d77ecc4/noop.png?input=https%3A%2F%2Fwww.icloud.com%2Fsystem%2Fcloudos%2F16CHotfix22%2Fcloudos_foundation%2F16CHotfix22%2Fen-us%2Fsource%2Fresources%2Fno_javascript%2Fjavascript_193x125%402x.png"></article>]]></description>
