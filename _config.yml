@@ -1,17 +1,14 @@
-layout_spectrum: 0.667261423310265
-typography_spectrum: 0.628766403766349
+layout_spectrum: 0.8409384950064123
+typography_spectrum: 0.15193105093203485
 color:
-  brandStrength: 0.6121041113510728
-  lightness: 0.17487335810437799
-  saturation: 0.9973853910341859
-  rhythmicContrast: 0.7281597272958606
+  brandStrength: 0.2859338382259011
+  lightness: 0.16478866711258888
+  saturation: 0.055992138339206576
+  rhythmicContrast: 0.4458252270705998
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: w3box
-author:
-  email: grid@w3box.com
-  url: 'http://w3box.com'
