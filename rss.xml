@@ -4,8 +4,15 @@
         <description><![CDATA[w3box]]></description>
         <link>https://thegrid.ai/w3box/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 01:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 01:10:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/w3box/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gmail]]></title>
+            <description><![CDATA[<article><h1>Gmail</h1><p>Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a02db6f127ea62980ab2d3061baeb0e3/noop.png?input=https%3A%2F%2Fssl.gstatic.com%2Faccounts%2Fui%2Favatar_2x.png"></article>]]></description>
+            <link>https://gmail.com/</link>
+            <guid isPermaLink="false">f7f51127-b0d0-46bc-a77b-3c861b48ecfb</guid>
+            <pubDate>Tue, 19 Jul 2016 01:10:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dropbox]]></title>
             <description><![CDATA[<article><h1>Dropbox</h1><p>Dropbox keeps your files safe, synced, and easy to share. Bring your photos, docs, and videos anywhere and never lose a file again.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3e3ac43a721a7039779457d1988e330/noop.png?input=https%3A%2F%2Fcfl.dropboxstatic.com%2Fstatic%2Fimages%2Fbrand%2Fglyph%402x-vflJ1vxbq.png"></article>]]></description>
