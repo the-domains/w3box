@@ -6,9 +6,12 @@ color:
   saturation: 0.055992138339206576
   rhythmicContrast: 0.4458252270705998
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: w3box
+author:
+  email: grid@w3box.com
+  url: 'http://w3box.com'
