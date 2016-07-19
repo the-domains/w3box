@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[w3box]]></title>
+        <description><![CDATA[w3box]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 01:09:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iCloud]]></title>
+            <description><![CDATA[<article><h1>iCloud</h1><p>iCloud makes sure you always have the latest versions of your most important things - documents, photos, notes, contacts, and more - on all your devices. It can even help you locate a missing iPhone, iPad, iPod touch or Mac.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/411b05c2b082c045943ffb5b1d77ecc4/noop.png?input=https%3A%2F%2Fwww.icloud.com%2Fsystem%2Fcloudos%2F16CHotfix22%2Fcloudos_foundation%2F16CHotfix22%2Fen-us%2Fsource%2Fresources%2Fno_javascript%2Fjavascript_193x125%402x.png"></article>]]></description>
+            <link>https://www.icloud.com/</link>
+            <guid isPermaLink="false">ee7e1b95-0053-459b-adad-bd4a9cf140a4</guid>
+            <pubDate>Tue, 19 Jul 2016 01:09:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
