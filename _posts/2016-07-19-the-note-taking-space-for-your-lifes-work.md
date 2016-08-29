@@ -22,15 +22,14 @@ description: >-
   projects, ideas, and inspiration handy across all your digital devices.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.evernote.com/'
 title: The note-taking space for your life's work
-datePublished: '2016-07-19T01:12:42.546Z'
-dateModified: '2016-07-19T01:12:34.820Z'
+datePublished: '2016-08-28T11:28:28.998Z'
+dateModified: '2016-08-28T11:28:28.387Z'
 sourcePath: _posts/2016-07-19-the-note-taking-space-for-your-lifes-work.md
+hasPage: true
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: the-note-taking-space-for-your-lifes-work/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
