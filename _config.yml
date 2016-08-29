@@ -1,6 +1,24 @@
+typography_spectrum: 0.8276595
+color:
+  saturation: 0.9973853910341859
+  brandStrength: 1
+  lightness: 0.174873358104378
+  brandColors:
+    - '#0A0501'
+    - '#FFA653'
+    - '#F85B0A'
+    - '#C62F0C'
+    - '#9F8876'
+  rhythmicContrast: 0.7281597272958606
+layout_spectrum: 1
 author:
   email: grid@w3box.com
   url: 'http://w3box.com'
+name: w3box
+navigation:
+  - name: Evernote
+    id: eb209d92-ed1d-4f53-a2fd-7e9c349b8475
+    type: content
 collections:
   - index:
       path: /
@@ -13,17 +31,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9973853910341859
-  brandStrength: 1
-  lightness: 0.174873358104378
-  brandColors:
-    - '#0A0501'
-    - '#FFA653'
-    - '#F85B0A'
-    - '#C62F0C'
-    - '#9F8876'
-  rhythmicContrast: 0.7281597272958606
-typography_spectrum: 0.8276595
-layout_spectrum: 1
-name: w3box
