@@ -4,8 +4,15 @@
         <description><![CDATA[w3box]]></description>
         <link>https://thegrid.ai/w3box/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 11:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 11:46:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/w3box/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Not a link]]></title>
+            <description><![CDATA[<article><h1>Not a link</h1><p>https://drive.google.com/drive/</p></article>]]></description>
+            <link>https://drive.google.com</link>
+            <guid isPermaLink="false">8fc3b395-1cd5-41d4-8042-738a8e604d11</guid>
+            <pubDate>Sun, 28 Aug 2016 11:45:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/496661cc-c322-4f85-bea7-04471bcc774b.gif">]]></description>
