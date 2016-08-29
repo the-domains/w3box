@@ -1,4 +1,3 @@
-layout_spectrum: 0.18200066778808832
 typography_spectrum: 0.35730379284359515
 color:
   saturation: 0.564335094531998
@@ -11,14 +10,11 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0.11765825166366994
+layout_spectrum: 0.18200066778808832
 author:
   email: grid@w3box.com
   url: 'http://w3box.com'
 name: w3box
-navigation:
-  - name: Evernote
-    id: eb209d92-ed1d-4f53-a2fd-7e9c349b8475
-    type: content
 collections:
   - index:
       path: /
